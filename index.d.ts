@@ -189,7 +189,7 @@ export interface MultipleSelectListProps  {
     /**
     * Trigger an action when option is selected
     */
-    onSelect?: () => void,
+    onSelect?: (val: any) => void,
 
     /**
     * set text of label which appears soon after multiple values are selected
@@ -257,6 +257,21 @@ export interface MultipleSelectListProps  {
     * Additional styles for label
     */
     labelStyles?: TextStyle,
+
+    /**
+     * Classnames for each component
+     */
+    classNames?: {
+        wrapper?: string,
+        dropdown?: string,
+        option?: string,
+        disabledoption?: string,
+        disabledcheckbox?: string,
+        checkbox?: string,
+        badge?: string,
+        badgetext?: string,
+        label?: string,
+    },
 }
 
 declare class MultipleSelectList extends React.Component<MultipleSelectListProps> {}
