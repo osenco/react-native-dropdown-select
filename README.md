@@ -1,6 +1,6 @@
 |                          | |  |   |   |
 | --------------------------------------- | -------- | ---------- |---------- |---------- |
-| <a href="https://www.npmjs.com/package/react-native-dropdown-select-list">![NPM VERSION](https://img.shields.io/npm/v/react-native-dropdown-select-list?style=for-the-badge)</a> | <a href="https://www.npmjs.com/package/react-native-dropdown-select-list">![NPM WEEKLY DOWNLOADS](https://img.shields.io/npm/dw/react-native-dropdown-select-list?color=%232CA215&label=WEEKLY%20DOWNLOADS&style=for-the-badge)</a> | <a href="https://github.com/danish1658/react-native-dropdown-select-list/stargazers">![GITHUB STAR](https://img.shields.io/github/stars/danish1658/react-native-dropdown-select-list?label=Give%20Us%20A%20Star&style=for-the-badge)</a> | <a href="https://www.youtube.com/channel/UCEbbpzmnbRiNVhJ3ElABbMQ">![YOUTUBE VIEWS](https://img.shields.io/youtube/channel/views/UCEbbpzmnbRiNVhJ3ElABbMQ?label=YOUTUBE%20VIEWS&style=for-the-badge)</a> | <a href="https://www.npmjs.com/package/react-native-dropdown-select-list">![NPM LIFETIME DOWNLOADS](https://img.shields.io/npm/dt/react-native-dropdown-select-list?color=%232CA215&style=for-the-badge)</a>
+| <a href="https://www.npmjs.com/package/@osenco/react-native-dropdown-select">![NPM VERSION](https://img.shields.io/npm/v/@osenco/react-native-dropdown-select?style=for-the-badge)</a> | <a href="https://www.npmjs.com/package/@osenco/react-native-dropdown-select">![NPM WEEKLY DOWNLOADS](https://img.shields.io/npm/dw/@osenco/react-native-dropdown-select?color=%232CA215&label=WEEKLY%20DOWNLOADS&style=for-the-badge)</a> | <a href="https://github.com/osenco/@osenco/react-native-dropdown-select/stargazers">![GITHUB STAR](https://img.shields.io/github/stars/osenco/@osenco/react-native-dropdown-select?label=Give%20Us%20A%20Star&style=for-the-badge)</a> | <a href="https://www.youtube.com/channel/UCEbbpzmnbRiNVhJ3ElABbMQ">![YOUTUBE VIEWS](https://img.shields.io/youtube/channel/views/UCEbbpzmnbRiNVhJ3ElABbMQ?label=YOUTUBE%20VIEWS&style=for-the-badge)</a> | <a href="https://www.npmjs.com/package/@osenco/react-native-dropdown-select">![NPM LIFETIME DOWNLOADS](https://img.shields.io/npm/dt/@osenco/react-native-dropdown-select?color=%232CA215&style=for-the-badge)</a>
 
 <br>
 <h1 align="center">
@@ -48,21 +48,21 @@ Multiple Select List            |  Select List
 # 🔌 Installation
 
 ```sh
-$ npm install react-native-dropdown-select-list
+$ npm install @osenco/react-native-dropdown-select
 
 ```
 
 OR
 
 ```sh
-$ yarn add react-native-dropdown-select-list
+$ yarn add @osenco/react-native-dropdown-select
 ```
 
 <br>
 
 # 😎 Basic Usage for SelectList
 ```jsx
-import { SelectList } from 'react-native-dropdown-select-list'
+import { SelectList } from '@osenco/react-native-dropdown-select'
 
 const App = () => {
 
@@ -92,7 +92,7 @@ const App = () => {
 
 # 😎 Basic Usage for MultipleSelectList
 ```jsx
-import { MultipleSelectList } from 'react-native-dropdown-select-list'
+import { MultipleSelectList } from '@osenco/react-native-dropdown-select'
 
 const App = () => {
 
@@ -124,7 +124,7 @@ const App = () => {
 <br>
 
 
-For Live `Demo` [(Expo Snack)](https://snack.expo.dev/@danish1658/react-native-dropdown-select-list)
+For Live `Demo` [(Expo Snack)](https://snack.expo.dev/@osenco/react-native-dropdown-select)
 
 <br>
 
@@ -168,7 +168,7 @@ For Live `Demo` [(Expo Snack)](https://snack.expo.dev/@danish1658/react-native-d
 
 # 😎 Advanced Usage
 ```jsx
-import { SelectList } from 'react-native-dropdown-select-list'
+import { SelectList } from '@osenco/react-native-dropdown-select'
 
 const App = () => {
 
@@ -202,7 +202,7 @@ const App = () => {
 
 # 😎 Getting Options From Database
 ```jsx
-import { SelectList } from 'react-native-dropdown-select-list'
+import { SelectList } from '@osenco/react-native-dropdown-select'
 
 const App = () => {
 
@@ -270,6 +270,6 @@ If you would like me come up with similar packages, buy me a cup of coffee to bo
 <br><br>
 [![Paypal](https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png)](https://paypal.me/danishamindar)
 <br><br>
-For Live `Demo` [(Expo Snack)](https://snack.expo.dev/@danish1658/react-native-dropdown-select-list)
+For Live `Demo` [(Expo Snack)](https://snack.expo.dev/@osenco/react-native-dropdown-select)
 
 <br>

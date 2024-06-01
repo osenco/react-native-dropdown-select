@@ -1,6 +1,6 @@
 {
-  "name": "react-native-dropdown-select-list",
-  "version": "2.0.3",
+  "name": "@osenco/react-native-dropdown-select",
+  "version": "1.0.0",
   "description": "⭐ React Native Select List Equivalent to Html's Select with options\"",
   "main": "index.ts",
   "types": "index.d.ts",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danish1658/react-native-dropdown-select-list.git"
+    "url": "git+https://github.com/osenco/@osenco/react-native-dropdown-select.git"
   },
   "keywords": [
     "picker",
@@ -35,16 +35,16 @@
     "multi"
   ],
   "devDependencies": {
-    "react": "17.0.2",
-    "react-native": "0.68.2",
-    "@types/react": "^18.0.25",
-    "@types/react-native": "^0.70.6",
-    "typescript": "^4.8.4"
+    "react": "^18.3.1",
+    "react-native": "^0.74.1",
+    "@types/react": "^18.3.3",
+    "@types/react-native": "^0.73.0",
+    "typescript": "^5.4.5"
   },
-  "author": "Danish Amin Dar",
+  "author": "Osen Concepts",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/danish1658/react-native-dropdown-select-list/issues"
+    "url": "https://github.com/osenco/@osenco/react-native-dropdown-select/issues"
   },
-  "homepage": "https://github.com/danish1658/react-native-dropdown-select-list#readme"
+  "homepage": "https://github.com/osenco/@osenco/react-native-dropdown-select#readme"
 }
